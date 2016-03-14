@@ -1,1 +1,3 @@
-# lesson-angular-award-winners
+# Angular JS Example - And the awards goes to...
+
+This is an Angular JS example demonstrating how can we do animation using the `ngAnimate` module and also how to manipulate CSS classes using Angular.
