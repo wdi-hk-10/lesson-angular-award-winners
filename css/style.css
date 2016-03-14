@@ -84,14 +84,8 @@ header > h1 {
   0% {
     opacity: 0;
   }
-  20% {
-    opacity: 0.2;
-  }
-  50% {
-    opacity: 0.5;
-  }
   70% {
-    opacity: 0.7;
+    opacity: 0.3;
   }
   100% {
     opacity: 1;
@@ -99,6 +93,7 @@ header > h1 {
 }
 
 ul > li {
-  animation-duration: 300ms;
+  animation-duration: 500ms;
   animation-name: fadeIn;
 }
+
